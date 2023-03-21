@@ -1,0 +1,5 @@
+*.tex linguist-language=TeX
+*.bib linguist-language=BibTeX
+*.bst linguist-language=BibTeX
+*.sty linguist-language=TeX
+*.pdf linguist-language=PDF
